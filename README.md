@@ -7,7 +7,7 @@ This challenges is exercises using the basis of quantum computing, most of this 
 
 ## How are they organized? 
 
-Each challenge will be separeted in a folder, with the "name" of the challenge. This folder will contain the README file explaining what is the point of the exercise, what was my dificults doing it, and what I learned doing it. And then, it will have the main file, with the code. 
+Each challenge will be separeted in a folder, with the "name" of the challenge. This folder will contain the README file explaining what is the point of the exercise and what I learned doing it. And then, it will have the main file, with the code. 
 
 I'm using python with jupyter, so in the main file it will have the `.ipynb` extension.
 
